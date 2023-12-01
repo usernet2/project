@@ -1,0 +1,24 @@
+body {
+    font-family: "Poopins";
+    color: #444444;
+}
+
+.button-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button-size {
+  color: #fff;
+  background-color: #aaaaaa;
+  border: none;
+  border-radius: 10%;
+  padding: 30px 20px; /* Ajustez la taille du padding selon vos besoins */
+  font-size: 20px;   /* Ajustez la taille de la police selon vos besoins */
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.button-size:hover {
+  background-color:#151515; /* Couleur de survol */
+}
